@@ -4,23 +4,21 @@ COVID-19 Prediction Dataset
 1. Dataset Summary
 
     Name: COVID-19 Symptom & Exposure Dataset
-   
     Size: 5,434 records
-   
     Number of Features: 20 (excluding the target variable)
-   
     Target Variable: COVID-19 Status (Yes/No)
-   
     Purpose: To predict COVID-19 infection based on symptoms, pre-existing conditions, and           exposure history.
 
 3. Features & Categories
    
    A. Symptoms & Medical Conditions
+   
         Breathing Problem, Fever, Dry Cough, Sore Throat, Running Nose
         Asthma, Chronic Lung Disease, Headache, Heart Disease, Diabetes, Hypertension
         Fatigue, Gastrointestinal Issues
    
    B. Exposure History
+   
         Abroad Travel
         Contact with COVID Patient
         Attended Large Gathering
@@ -28,10 +26,12 @@ COVID-19 Prediction Dataset
         Family Working in Public Exposed Places
    
    C. Preventive Measures
+   
         Wearing Masks
         Sanitization from Market
    
    D. Target Variable
+   
         COVID-19 Positive (Yes/No)
 
 5. Data Type & Structure
